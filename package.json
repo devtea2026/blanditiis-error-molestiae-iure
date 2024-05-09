@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/blanditiis-error-molestiae-iure",
-  "version": "2.1.6",
+  "version": "2.1.7",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -116,5 +116,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/blanditiis-error-molestiae-iure/issues"
   },
-  "packageManager": "yarn@4.2.1"
+  "packageManager": "yarn@4.2.2"
 }
